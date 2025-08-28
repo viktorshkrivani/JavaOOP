@@ -10,12 +10,12 @@ This project demonstrates inheritance and polymorphism by simulating different e
 
 ## Sample Runs
 Sample execution results can be found here:  
-[Sample Image](./pj2/PROJECT%202%20Screenshots.pdf)
+[Sample Image](./PROJECT%202%20Screenshots.pdf)
 
 ## Files
-- [Enemy.java](.pj2/GGODEnemy/src/main/java/org/example/Enemy.java)
-- [Dragon.java](.pj2/GGODEnemy/src/main/java/org/example/Dragon.java)  
-- [Ghost.java](.pj2/GGODEnemy/src/main/java/org/example/Ghost.java)  
-- [Goblin.java](.pj2/GGODEnemy/src/main/java/org/example/Goblin.java)  
-- [Ogre.java](.pj2/GGODEnemy/src/main/java/org/example/Ogre.java)  
-- [GenEnemy.java](.pj2/GGODEnemy/src/main/java/org/example/GenEnemy.java)  
+- [Enemy.java](./GGODEnemy/src/main/java/org/example/Enemy.java)
+- [Dragon.java](./GGODEnemy/src/main/java/org/example/Dragon.java)  
+- [Ghost.java](./GGODEnemy/src/main/java/org/example/Ghost.java)  
+- [Goblin.java](./GGODEnemy/src/main/java/org/example/Goblin.java)  
+- [Ogre.java](./GGODEnemy/src/main/java/org/example/Ogre.java)  
+- [GenEnemy.java](./GGODEnemy/src/main/java/org/example/GenEnemy.java)  
