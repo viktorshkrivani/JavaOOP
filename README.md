@@ -18,4 +18,4 @@ This repository contains 4 programming projects that explore core object-oriente
 
 - [Project 4 🎵 — Music Database Manager](./pj4)  
   A Java program for managing a music database with artists and albums, supporting adding, storing, and organizing music entries.
-  Image](./pj4/1Screenshots%20for%20proj4.docx)
+  [Image](./pj4/1Screenshots%20for%20proj4.docx)
