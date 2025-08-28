@@ -9,6 +9,7 @@ This repository contains 4 programming projects that explore core object-oriente
 
 - [Project 2 🐉 — Enemy Generator](./pj2)  
   Demonstrates inheritance and polymorphism by generating different enemy types (Dragon, Ghost, Goblin, Ogre) from a base `Enemy` class and simulating their attacks.
+  [Images](./pj2/PROJECT%202%20Screenshots.pdf)
 
 - [Project 3 🎬 — Movie Manager App](./pj3)  
   A JavaFX app to add, list, save, load, and delete movies (with or without year) using a text file for persistence, supporting multi-select delete.
