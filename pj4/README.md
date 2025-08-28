@@ -14,7 +14,11 @@ Sample execution results can be found here:
 [Sample Image](./1Screenshots%20for%20proj4.docx)
 
 ## Files
-- `Artist.java`  
-- `Album.java`  
-- `MusicDB.java`  
-- `Proj4.java`  
+- [Artist.java](./1Screenshots%20for%20proj4.docx)  
+- [Album.java](./1Screenshots%20for%20proj4.docx)
+- [MusicDB.java](./1Screenshots%20for%20proj4.docx)  
+- [Proj4.java](./1Screenshots%20for%20proj4.docx)
+
+## Database Files
+- [Main.java](./Sample/src/Main.java)  
+- [music_artists.sqlite](./Sample/src/music_artists.sqlite)
