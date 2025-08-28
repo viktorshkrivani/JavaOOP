@@ -14,6 +14,7 @@ This repository contains 4 programming projects that explore core object-oriente
 
 - [Project 3 🎬 — Movie Manager App](./pj3)  
   A JavaFX app to add, list, save, load, and delete movies (with or without year) using a text file for persistence, supporting multi-select delete.
+  [Image](./pj3/1Ascreenshot%20for%20prjt%203.pdf)
 
 - [Project 4 🎵 — Music Database Manager](./pj4)  
   A Java program for managing a music database with artists and albums, supporting adding, storing, and organizing music entries.
