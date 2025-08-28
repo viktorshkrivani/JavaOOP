@@ -11,9 +11,9 @@ It supports entering multiple people until the user chooses to stop.
 
 ## Sample Runs
 Sample execution results can be found here:  
-[Sample Image](./pj1/src/proj1/1pdf%20screenshot%20example.pdf)
+[Sample Image](./src/proj1/1pdf%20screenshot%20example.pdf)
 
 ## Files
-- [`DateOfBirth.java`](./pj1/src/proj1/DateOfBirth.java)
-- [`PersonHeartRate.java`](./pj1/src/proj1/HeartRateDemo.java)  
-- [`HeartRateDemo.java`](./pj1/src/proj1/PersonHeartRate.java)
+- [DateOfBirth.java](./src/proj1/DateOfBirth.java)
+- [PersonHeartRate.java](./src/proj1/HeartRateDemo.java)  
+- [HeartRateDemo.java](./src/proj1/PersonHeartRate.java)
