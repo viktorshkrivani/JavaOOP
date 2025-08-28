@@ -14,10 +14,10 @@ Sample execution results can be found here:
 [Sample Image](./1Screenshots%20for%20proj4.docx)
 
 ## Files
-- [Artist.java](./1Screenshots%20for%20proj4.docx)  
-- [Album.java](./1Screenshots%20for%20proj4.docx)
-- [MusicDB.java](./1Screenshots%20for%20proj4.docx)  
-- [Proj4.java](./1Screenshots%20for%20proj4.docx)
+- [Artist.java](./Proj4/proj4/Artist.java)  
+- [Album.java](./Proj4/proj4/Album.java)
+- [MusicDB.java](./Proj4/proj4/MusicDB.java)  
+- [Proj4.java](./Proj4/proj4/Proj4.java)
 
 ## Database Files
 - [Main.java](./Sample/src/Main.java)  
