@@ -7,7 +7,7 @@ A JavaFX application to manage a list of movies. Users can add, display, delete,
 - Add movies with or without a year.  
 - Save and load movies from a text file.  
 - Multi-select movies for deletion.  
-- Persistent storage using `Movies.txt`.
+- Persistent storage using [`Movies.txt`](./FMOV/movies.txt).
 
 ## Sample Runs
 Sample execution results can be found here:  
