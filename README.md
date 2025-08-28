@@ -6,6 +6,7 @@ This repository contains 4 programming projects that explore core object-oriente
 
 - [Project 1 ❤️ — Heart Rate Calculator](./pj1)  
   Collects a person’s name and date of birth, calculates their age, maximum heart rate, and target heart rate range, supporting multiple people until the user exits.
+  [Images](.pj1/src/proj1/1pdf%20screenshot%20example.pdf)
 
 - [Project 2 🐉 — Enemy Generator](./pj2)  
   Demonstrates inheritance and polymorphism by generating different enemy types (Dragon, Ghost, Goblin, Ogre) from a base `Enemy` class and simulating their attacks.
